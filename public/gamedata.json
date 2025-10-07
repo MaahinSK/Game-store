@@ -1,0 +1,507 @@
+[
+  {
+    "image": "cyberpunk_2077.jpg",
+    "title": "Cyberpunk 2077",
+    "companyName": "CD Projekt Red",
+    "id": 1,
+    "description": "An open-world, action-adventure RPG set in the megalopolis of Night City, where you play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+    "size": 67,
+    "reviews": "284.5K",
+    "ratingAvg": 4.2,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 28450 },
+      { "name": "2 star", "count": 28450 },
+      { "name": "3 star", "count": 56900 },
+      { "name": "4 star", "count": 85350 },
+      { "name": "5 star", "count": 85350 }
+    ]
+  },
+  {
+    "image": "elden_ring.jpg",
+    "title": "Elden Ring",
+    "companyName": "FromSoftware",
+    "id": 2,
+    "description": "A fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R. R. Martin. Journey through the Lands Between to become the Elden Lord.",
+    "size": 48,
+    "reviews": "392K",
+    "ratingAvg": 4.8,
+    "downloads": "9.2M",
+    "ratings": [
+      { "name": "1 star", "count": 19600 },
+      { "name": "2 star", "count": 19600 },
+      { "name": "3 star", "count": 39200 },
+      { "name": "4 star", "count": 78400 },
+      { "name": "5 star", "count": 235200 }
+    ]
+  },
+  {
+    "image": "the_witcher_3.jpg",
+    "title": "The Witcher 3: Wild Hunt",
+    "companyName": "CD Projekt Red",
+    "id": 3,
+    "description": "A story-driven, open world adventure set in a dark fantasy universe where you play as Geralt of Rivia, a monster hunter tasked with finding a child of prophecy.",
+    "size": 52,
+    "reviews": "568K",
+    "ratingAvg": 4.9,
+    "downloads": "12.5M",
+    "ratings": [
+      { "name": "1 star", "count": 17040 },
+      { "name": "2 star", "count": 17040 },
+      { "name": "3 star", "count": 28400 },
+      { "name": "4 star", "count": 113600 },
+      { "name": "5 star", "count": 397600 }
+    ]
+  },
+  {
+    "image": "baldurs_gate_3.jpg",
+    "title": "Baldur's Gate 3",
+    "companyName": "Larian Studios",
+    "id": 4,
+    "description": "A next-generation RPG set in the world of Dungeons & Dragons where your choices shape a tale of fellowship and betrayal, survival and sacrifice.",
+    "size": 150,
+    "reviews": "318K",
+    "ratingAvg": 4.7,
+    "downloads": "6.8M",
+    "ratings": [
+      { "name": "1 star", "count": 15900 },
+      { "name": "2 star", "count": 15900 },
+      { "name": "3 star", "count": 47700 },
+      { "name": "4 star", "count": 95400 },
+      { "name": "5 star", "count": 143100 }
+    ]
+  },
+  {
+    "image": "red_dead_redemption_2.jpg",
+    "title": "Red Dead Redemption 2",
+    "companyName": "Rockstar Games",
+    "id": 5,
+    "description": "An epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world provides the foundation for an entirely new kind of open world experience.",
+    "size": 150,
+    "reviews": "425K",
+    "ratingAvg": 4.6,
+    "downloads": "10.5M",
+    "ratings": [
+      { "name": "1 star", "count": 42500 },
+      { "name": "2 star", "count": 21250 },
+      { "name": "3 star", "count": 42500 },
+      { "name": "4 star", "count": 127500 },
+      { "name": "5 star", "count": 191250 }
+    ]
+  },
+  {
+    "image": "starfield.jpg",
+    "title": "Starfield",
+    "companyName": "Bethesda Game Studios",
+    "id": 6,
+    "description": "A next-generation role-playing game set amongst the stars. Create any character you want and explore with unparalleled freedom in this epic journey to answer humanity's greatest mystery.",
+    "size": 125,
+    "reviews": "195K",
+    "ratingAvg": 3.9,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 58500 },
+      { "name": "2 star", "count": 29250 },
+      { "name": "3 star", "count": 39000 },
+      { "name": "4 star", "count": 39000 },
+      { "name": "5 star", "count": 29250 }
+    ]
+  },
+  {
+    "image": "call_of_duty_warzone.jpg",
+    "title": "Call of Duty: Warzone",
+    "companyName": "Activision",
+    "id": 7,
+    "description": "A free-to-play combat arena with two main modes: Battle Royale and Plunder. Features cross-platform play and massive 150-player battles.",
+    "size": 95,
+    "reviews": "875K",
+    "ratingAvg": 4.1,
+    "downloads": "18.5M",
+    "ratings": [
+      { "name": "1 star", "count": 131250 },
+      { "name": "2 star", "count": 87500 },
+      { "name": "3 star", "count": 175000 },
+      { "name": "4 star", "count": 262500 },
+      { "name": "5 star", "count": 218750 }
+    ]
+  },
+  {
+    "image": "minecraft.jpg",
+    "title": "Minecraft",
+    "companyName": "Mojang Studios",
+    "id": 8,
+    "description": "A sandbox adventure game where players explore infinite worlds and build everything from simple homes to grand castles. Create, explore, and survive in this block-based universe.",
+    "size": 2,
+    "reviews": "1.25M",
+    "ratingAvg": 4.8,
+    "downloads": "28.5M",
+    "ratings": [
+      { "name": "1 star", "count": 62500 },
+      { "name": "2 star", "count": 62500 },
+      { "name": "3 star", "count": 125000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 750000 }
+    ]
+  }
+    ,
+  {
+    "image": "grand_theft_auto_v.jpg",
+    "title": "Grand Theft Auto V",
+    "companyName": "Rockstar Games",
+    "id": 9,
+    "description": "An action-adventure game set in the fictional state of San Andreas, following three criminals and their efforts to commit heists while under pressure from a government agency.",
+    "size": 95,
+    "reviews": "1.2M",
+    "ratingAvg": 4.8,
+    "downloads": "35.2M",
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 240000 },
+      { "name": "5 star", "count": 720000 }
+    ]
+  },
+  {
+    "image": "counter_strike_2.jpg",
+    "title": "Counter-Strike 2",
+    "companyName": "Valve",
+    "id": 10,
+    "description": "The largest technical leap forward in Counter-Strike's history, featuring modern rendering, tick-rate-independent gameplay, and upgraded community workshop tools.",
+    "size": 35,
+    "reviews": "2.1M",
+    "ratingAvg": 4.5,
+    "downloads": "42.8M",
+    "ratings": [
+      { "name": "1 star", "count": 210000 },
+      { "name": "2 star", "count": 105000 },
+      { "name": "3 star", "count": 315000 },
+      { "name": "4 star", "count": 630000 },
+      { "name": "5 star", "count": 840000 }
+    ]
+  },
+  {
+    "image": "fallout_4.jpg",
+    "title": "Fallout 4",
+    "companyName": "Bethesda Game Studios",
+    "id": 11,
+    "description": "A post-apocalyptic action RPG where you emerge from Vault 211 into a devastated world, searching for your missing son in the Commonwealth wasteland.",
+    "size": 28,
+    "reviews": "485K",
+    "ratingAvg": 4.3,
+    "downloads": "15.3M",
+    "ratings": [
+      { "name": "1 star", "count": 48500 },
+      { "name": "2 star", "count": 48500 },
+      { "name": "3 star", "count": 97000 },
+      { "name": "4 star", "count": 145500 },
+      { "name": "5 star", "count": 145500 }
+    ]
+  },
+  {
+    "image": "skyrim.jpg",
+    "title": "The Elder Scrolls V: Skyrim",
+    "companyName": "Bethesda Game Studios",
+    "id": 12,
+    "description": "An epic fantasy RPG where you play as the Dragonborn, a hero born with the power of The Voice, destined to save the world from the dragon Alduin.",
+    "size": 12,
+    "reviews": "892K",
+    "ratingAvg": 4.7,
+    "downloads": "28.7M",
+    "ratings": [
+      { "name": "1 star", "count": 44600 },
+      { "name": "2 star", "count": 44600 },
+      { "name": "3 star", "count": 133800 },
+      { "name": "4 star", "count": 267600 },
+      { "name": "5 star", "count": 401400 }
+    ]
+  },
+  {
+    "image": "doom_eternal.jpg",
+    "title": "DOOM Eternal",
+    "companyName": "id Software",
+    "id": 13,
+    "description": "The ultimate combination of speed and power as you battle against demonic forces from hell in this first-person shooter with brutal combat.",
+    "size": 80,
+    "reviews": "218K",
+    "ratingAvg": 4.6,
+    "downloads": "7.4M",
+    "ratings": [
+      { "name": "1 star", "count": 21800 },
+      { "name": "2 star", "count": 10900 },
+      { "name": "3 star", "count": 32700 },
+      { "name": "4 star", "count": 65400 },
+      { "name": "5 star", "count": 87200 }
+    ]
+  },
+  {
+    "image": "portal_2.jpg",
+    "title": "Portal 2",
+    "companyName": "Valve",
+    "id": 14,
+    "description": "A puzzle-platform game that challenges you with solving spatial puzzles using a portal gun while navigating the dilapidated Aperture Science Enrichment Center.",
+    "size": 8,
+    "reviews": "324K",
+    "ratingAvg": 4.9,
+    "downloads": "18.9M",
+    "ratings": [
+      { "name": "1 star", "count": 16200 },
+      { "name": "2 star", "count": 16200 },
+      { "name": "3 star", "count": 32400 },
+      { "name": "4 star", "count": 64800 },
+      { "name": "5 star", "count": 194400 }
+    ]
+  },
+  {
+    "image": "resident_evil_4.jpg",
+    "title": "Resident Evil 4",
+    "companyName": "Capcom",
+    "id": 15,
+    "description": "A survival horror game where special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President's daughter from a mysterious cult in rural Europe.",
+    "size": 56,
+    "reviews": "142K",
+    "ratingAvg": 4.7,
+    "downloads": "5.2M",
+    "ratings": [
+      { "name": "1 star", "count": 14200 },
+      { "name": "2 star", "count": 7100 },
+      { "name": "3 star", "count": 21300 },
+      { "name": "4 star", "count": 42600 },
+      { "name": "5 star", "count": 56800 }
+    ]
+  },
+  {
+    "image": "god_of_war.jpg",
+    "title": "God of War",
+    "companyName": "Santa Monica Studio",
+    "id": 16,
+    "description": "A single-player action-adventure game that follows Kratos and his son Atreus on a mythic journey through the realm of Midgard in Norse mythology.",
+    "size": 70,
+    "reviews": "287K",
+    "ratingAvg": 4.8,
+    "downloads": "8.9M",
+    "ratings": [
+      { "name": "1 star", "count": 14350 },
+      { "name": "2 star", "count": 14350 },
+      { "name": "3 star", "count": 28700 },
+      { "name": "4 star", "count": 57400 },
+      { "name": "5 star", "count": 172200 }
+    ]
+  },
+  {
+    "image": "assassins_creed_valhalla.jpg",
+    "title": "Assassin's Creed Valhalla",
+    "companyName": "Ubisoft",
+    "id": 17,
+    "description": "Lead epic Viking raids against Saxon armies and fortresses as you build your clan's new settlement in 9th century England.",
+    "size": 135,
+    "reviews": "198K",
+    "ratingAvg": 4.2,
+    "downloads": "9.7M",
+    "ratings": [
+      { "name": "1 star", "count": 39600 },
+      { "name": "2 star", "count": 19800 },
+      { "name": "3 star", "count": 39600 },
+      { "name": "4 star", "count": 59400 },
+      { "name": "5 star", "count": 59400 }
+    ]
+  },
+  {
+    "image": "dota_2.jpg",
+    "title": "Dota 2",
+    "companyName": "Valve",
+    "id": 18,
+    "description": "A competitive MOBA game where two teams of five players battle to destroy the enemy's Ancient structure while defending their own.",
+    "size": 40,
+    "reviews": "1.8M",
+    "ratingAvg": 4.4,
+    "downloads": "38.5M",
+    "ratings": [
+      { "name": "1 star", "count": 360000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 360000 },
+      { "name": "4 star", "count": 540000 },
+      { "name": "5 star", "count": 360000 }
+    ]
+  },
+  {
+    "image": "overwatch_2.jpg",
+    "title": "Overwatch 2",
+    "companyName": "Blizzard Entertainment",
+    "id": 19,
+    "description": "A team-based first-person shooter featuring intense 5v5 battles with a diverse cast of heroes in futuristic locations around the world.",
+    "size": 50,
+    "reviews": "745K",
+    "ratingAvg": 3.8,
+    "downloads": "25.3M",
+    "ratings": [
+      { "name": "1 star", "count": 223500 },
+      { "name": "2 star", "count": 149000 },
+      { "name": "3 star", "count": 149000 },
+      { "name": "4 star", "count": 149000 },
+      { "name": "5 star", "count": 74500 }
+    ]
+  },
+  {
+    "image": "fortnite.jpg",
+    "title": "Fortnite",
+    "companyName": "Epic Games",
+    "id": 20,
+    "description": "A free-to-play battle royale game where 100 players fight to be the last one standing while building structures and using various weapons.",
+    "size": 75,
+    "reviews": "3.2M",
+    "ratingAvg": 4.3,
+    "downloads": "68.9M",
+    "ratings": [
+      { "name": "1 star", "count": 640000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 640000 },
+      { "name": "4 star", "count": 960000 },
+      { "name": "5 star", "count": 640000 }
+    ]
+  },
+  {
+    "image": "league_of_legends.jpg",
+    "title": "League of Legends",
+    "companyName": "Riot Games",
+    "id": 21,
+    "description": "A fast-paced competitive MOBA game where two teams of powerful champions battle to destroy the enemy's Nexus on the Fields of Justice.",
+    "size": 25,
+    "reviews": "2.5M",
+    "ratingAvg": 4.6,
+    "downloads": "52.1M",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 750000 },
+      { "name": "5 star", "count": 750000 }
+    ]
+  },
+  {
+    "image": "apex_legends.jpg",
+    "title": "Apex Legends",
+    "companyName": "Respawn Entertainment",
+    "id": 22,
+    "description": "A free-to-play battle royale game where legendary characters with powerful abilities team up to fight for fame and fortune on the fringes of the Frontier.",
+    "size": 65,
+    "reviews": "1.1M",
+    "ratingAvg": 4.4,
+    "downloads": "32.7M",
+    "ratings": [
+      { "name": "1 star", "count": 220000 },
+      { "name": "2 star", "count": 110000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 330000 },
+      { "name": "5 star", "count": 220000 }
+    ]
+  },
+  {
+    "image": "destiny_2.jpg",
+    "title": "Destiny 2",
+    "companyName": "Bungie",
+    "id": 23,
+    "description": "A free-to-play online-only multiplayer first-person shooter set in a mythic science fiction world with various player versus environment and player versus player modes.",
+    "size": 105,
+    "reviews": "682K",
+    "ratingAvg": 4.1,
+    "downloads": "28.4M",
+    "ratings": [
+      { "name": "1 star", "count": 204600 },
+      { "name": "2 star", "count": 136400 },
+      { "name": "3 star", "count": 136400 },
+      { "name": "4 star", "count": 136400 },
+      { "name": "5 star", "count": 68200 }
+    ]
+  },
+  {
+    "image": "borderlands_3.jpg",
+    "title": "Borderlands 3",
+    "companyName": "Gearbox Software",
+    "id": 24,
+    "description": "A loot-driven first-person shooter where you play as one of four new Vault Hunters on a mission to defeat the Calypso Twins and save the galaxy.",
+    "size": 75,
+    "reviews": "156K",
+    "ratingAvg": 4.0,
+    "downloads": "12.8M",
+    "ratings": [
+      { "name": "1 star", "count": 46800 },
+      { "name": "2 star", "count": 31200 },
+      { "name": "3 star", "count": 31200 },
+      { "name": "4 star", "count": 31200 },
+      { "name": "5 star", "count": 15600 }
+    ]
+  },
+  {
+    "image": "halo_infinite.jpg",
+    "title": "Halo Infinite",
+    "companyName": "343 Industries",
+    "id": 25,
+    "description": "The next evolution of Halo combat where the Master Chief returns to confront his greatest challenge yet and save humanity from impending doom.",
+    "size": 90,
+    "reviews": "234K",
+    "ratingAvg": 3.9,
+    "downloads": "15.6M",
+    "ratings": [
+      { "name": "1 star", "count": 70200 },
+      { "name": "2 star", "count": 46800 },
+      { "name": "3 star", "count": 46800 },
+      { "name": "4 star", "count": 46800 },
+      { "name": "5 star", "count": 23400 }
+    ]
+  },
+  {
+    "image": "sekiro.jpg",
+    "title": "Sekiro: Shadows Die Twice",
+    "companyName": "FromSoftware",
+    "id": 26,
+    "description": "An action-adventure game set in feudal Japan where you play as a disgraced and disfigured warrior on a quest to rescue his master and take revenge.",
+    "size": 25,
+    "reviews": "187K",
+    "ratingAvg": 4.7,
+    "downloads": "7.9M",
+    "ratings": [
+      { "name": "1 star", "count": 18700 },
+      { "name": "2 star", "count": 9350 },
+      { "name": "3 star", "count": 28050 },
+      { "name": "4 star", "count": 56100 },
+      { "name": "5 star", "count": 74800 }
+    ]
+  },
+  {
+    "image": "divinity_original_sin_2.jpg",
+    "title": "Divinity: Original Sin 2",
+    "companyName": "Larian Studios",
+    "id": 27,
+    "description": "A single-player and multiplayer fantasy RPG with turn-based combat, deep character customization, and a richly interactive world where your choices matter.",
+    "size": 45,
+    "reviews": "128K",
+    "ratingAvg": 4.8,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 12800 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 19200 },
+      { "name": "4 star", "count": 38400 },
+      { "name": "5 star", "count": 51200 }
+    ]
+  },
+  {
+    "image": "warframe.jpg",
+    "title": "Warframe",
+    "companyName": "Digital Extremes",
+    "id": 28,
+    "description": "A free-to-play cooperative third-person shooter where you play as a Tenno, an ancient warrior who must battle against various factions in the solar system.",
+    "size": 40,
+    "reviews": "892K",
+    "ratingAvg": 4.5,
+    "downloads": "35.7M",
+    "ratings": [
+      { "name": "1 star", "count": 178400 },
+      { "name": "2 star", "count": 89200 },
+      { "name": "3 star", "count": 178400 },
+      { "name": "4 star", "count": 267600 },
+      { "name": "5 star", "count": 178400 }
+    ]
+  }
+]
