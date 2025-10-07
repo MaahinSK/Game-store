@@ -1,6 +1,6 @@
 [
   {
-    "image": "cyberpunk_2077.jpg",
+    "image": "public/demo-app (2).webp",
     "title": "Cyberpunk 2077",
     "companyName": "CD Projekt Red",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "elden_ring.jpg",
+    "image": "public/demo-app (1).webp",
     "title": "Elden Ring",
     "companyName": "FromSoftware",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "the_witcher_3.jpg",
+    "image": "public/demo-app (3).webp",
     "title": "The Witcher 3: Wild Hunt",
     "companyName": "CD Projekt Red",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "baldurs_gate_3.jpg",
+    "image": "public/demo-app (4).webp",
     "title": "Baldur's Gate 3",
     "companyName": "Larian Studios",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "red_dead_redemption_2.jpg",
+    "image": "public/demo-app (5).webp",
     "title": "Red Dead Redemption 2",
     "companyName": "Rockstar Games",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "starfield.jpg",
+    "image": "public/demo-app (6).webp",
     "title": "Starfield",
     "companyName": "Bethesda Game Studios",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "call_of_duty_warzone.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/COD_Warzone_Mobile_Key_Art.png/250px-COD_Warzone_Mobile_Key_Art.png",
     "title": "Call of Duty: Warzone",
     "companyName": "Activision",
     "id": 7,

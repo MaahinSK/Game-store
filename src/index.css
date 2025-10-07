@@ -1,1 +1,13 @@
 @import "tailwindcss";
+@plugin "daisyui";
+
+
+/* small custom styling */
+body {
+  @apply bg-gray-50 text-slate-800;
+}
+
+/* Loading overlay */
+.loading-overlay {
+  backdrop-filter: blur(2px);
+}
