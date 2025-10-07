@@ -17,7 +17,7 @@ export default function AppsPage() {
       .finally(() => setLoading(false));
   }, []);
 
-  // Debounced query handling for search animation
+
   useEffect(() => {
     if (query.trim() === "") { setSearching(false); return; }
     setSearching(true);
@@ -32,12 +32,12 @@ export default function AppsPage() {
   }, [data, query]);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-12">
+    <div className="max-w-7xl mx-auto px-4 py-12">
       <h2 className="text-3xl font-bold text-center">Our All Applications</h2>
-      <p className="text-center text-slate-500 mt-1">Explore All Apps on the Market developed by us. We code for Millions</p>
+      <p className="text-center text-slate-500 mt-1">Explore All Games on the Market developed by us. We code for Millions</p>
 
       <div className="flex justify-between items-center mt-6">
-        <div>( {data.length} ) Apps Found</div>
+        <div>({data.length}) Apps Found</div>
         <div className="w-64">
           <input
             value={query}
@@ -56,8 +56,9 @@ export default function AppsPage() {
 
           {filtered.length === 0 ? (
             <div className="text-center py-12">
-              <p className="text-lg">No app found</p>
-              <a href="#/apps" className="mt-4 inline-block px-4 py-2 bg-purple-600 text-white rounded">Go to All Apps</a>
+                
+              <p className="text-2xl">No Game found</p>
+              <a href="/apps" className="mt-4 inline-block px-4 py-2 bg-purple-600 text-white rounded">Go to All Apps</a>
             </div>
           ) : (
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
