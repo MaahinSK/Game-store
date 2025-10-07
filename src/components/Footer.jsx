@@ -4,8 +4,9 @@ export default function Footer() {
   return (
     <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">
   <aside className="grid-flow-col items-center">
-    <h3>HERO.IO</h3>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
+    {/* <h3>HERO.IO</h3> */}
+    <img src="/public/logo.png" className="w-10" alt="" />
+    <p>HERO.IO © {new Date().getFullYear()} - All right reserved</p>
   </aside>
   <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
     <a>
