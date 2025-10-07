@@ -16,10 +16,8 @@ export default function RoutesFile() {
       <Route path="/apps/:id" element={<AppDetails />} />
       <Route path="/installation" element={<Installation />} />
 
-      {/* app-level not found (when bad app id) will be handled inside AppDetails; fallback */}
       <Route path="/app-not-found" element={<AppNotFound />} />
 
-      {/* catch-all */}
       <Route path="*" element={<NotFound />} />
     </Routes>
   );

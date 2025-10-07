@@ -2,7 +2,7 @@
 @plugin "daisyui";
 
 
-/* small custom styling */
+/* sml custom styling */
 body {
   @apply bg-gray-50 text-slate-800;
 }
