@@ -1,6 +1,6 @@
 [
   {
-    "image": "public/demo-app (2).webp",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
     "title": "Cyberpunk 2077",
     "companyName": "CD Projekt Red",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "public/demo-app (1).webp",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg?t=1748630546",
     "title": "Elden Ring",
     "companyName": "FromSoftware",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "public/demo-app (3).webp",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
     "title": "The Witcher 3: Wild Hunt",
     "companyName": "CD Projekt Red",
     "id": 3,
@@ -54,25 +54,26 @@
     ]
   },
   {
-    "image": "public/demo-app (4).webp",
-    "title": "Baldur's Gate 3",
-    "companyName": "Larian Studios",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Apex_legends_cover.jpg",
+    "title": "Apex Legends",
+    "companyName": "Respawn Entertainment",
     "id": 4,
-    "description": "A next-generation RPG set in the world of Dungeons & Dragons where your choices shape a tale of fellowship and betrayal, survival and sacrifice.",
-    "size": 150,
-    "reviews": "318K",
-    "ratingAvg": 4.7,
-    "downloads": "6.8M",
+    "description": "A free-to-play battle royale game where legendary characters with powerful abilities team up to fight for fame and fortune on the fringes of the Frontier.",
+    "size": 65,
+    "reviews": "1.1M",
+    "ratingAvg": 4.4,
+    "downloads": "32.7M",
     "ratings": [
-      { "name": "1 star", "count": 15900 },
-      { "name": "2 star", "count": 15900 },
-      { "name": "3 star", "count": 47700 },
-      { "name": "4 star", "count": 95400 },
-      { "name": "5 star", "count": 143100 }
+      { "name": "1 star", "count": 220000 },
+      { "name": "2 star", "count": 110000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 330000 },
+      { "name": "5 star", "count": 220000 }
     ]
   },
+  
   {
-    "image": "public/demo-app (5).webp",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
     "title": "Red Dead Redemption 2",
     "companyName": "Rockstar Games",
     "id": 5,
@@ -90,7 +91,7 @@
     ]
   },
   {
-    "image": "public/demo-app (6).webp",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_616x353.jpg?t=1749757928",
     "title": "Starfield",
     "companyName": "Bethesda Game Studios",
     "id": 6,
@@ -126,7 +127,7 @@
     ]
   },
   {
-    "image": "minecraft.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
     "title": "Minecraft",
     "companyName": "Mojang Studios",
     "id": 8,
@@ -145,7 +146,7 @@
   }
     ,
   {
-    "image": "grand_theft_auto_v.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/250px-Grand_Theft_Auto_V.png",
     "title": "Grand Theft Auto V",
     "companyName": "Rockstar Games",
     "id": 9,
@@ -163,7 +164,7 @@
     ]
   },
   {
-    "image": "counter_strike_2.jpg",
+    "image": "https://egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1696414021417.webp",
     "title": "Counter-Strike 2",
     "companyName": "Valve",
     "id": 10,
@@ -181,7 +182,7 @@
     ]
   },
   {
-    "image": "fallout_4.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Fallout_4_cover_art.jpg/250px-Fallout_4_cover_art.jpg",
     "title": "Fallout 4",
     "companyName": "Bethesda Game Studios",
     "id": 11,
@@ -199,7 +200,7 @@
     ]
   },
   {
-    "image": "skyrim.jpg",
+    "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg",
     "title": "The Elder Scrolls V: Skyrim",
     "companyName": "Bethesda Game Studios",
     "id": 12,
@@ -217,7 +218,7 @@
     ]
   },
   {
-    "image": "doom_eternal.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
     "title": "DOOM Eternal",
     "companyName": "id Software",
     "id": 13,
@@ -235,7 +236,7 @@
     ]
   },
   {
-    "image": "portal_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Portal2cover.jpg/250px-Portal2cover.jpg",
     "title": "Portal 2",
     "companyName": "Valve",
     "id": 14,
@@ -253,7 +254,7 @@
     ]
   },
   {
-    "image": "resident_evil_4.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_remake_cover_art.jpg",
     "title": "Resident Evil 4",
     "companyName": "Capcom",
     "id": 15,
@@ -271,7 +272,7 @@
     ]
   },
   {
-    "image": "god_of_war.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/God_of_War_4_cover.jpg/250px-God_of_War_4_cover.jpg",
     "title": "God of War",
     "companyName": "Santa Monica Studio",
     "id": 16,
@@ -289,7 +290,7 @@
     ]
   },
   {
-    "image": "assassins_creed_valhalla.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/Assassin%27s_Creed_Valhalla_cover.jpg",
     "title": "Assassin's Creed Valhalla",
     "companyName": "Ubisoft",
     "id": 17,
@@ -307,7 +308,7 @@
     ]
   },
   {
-    "image": "dota_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dota_2_Steam_artwork.jpg/250px-Dota_2_Steam_artwork.jpg",
     "title": "Dota 2",
     "companyName": "Valve",
     "id": 18,
@@ -325,7 +326,7 @@
     ]
   },
   {
-    "image": "overwatch_2.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIbJNDVtYp884tNKSeTQAHAcCUFpc4rjdpg&s",
     "title": "Overwatch 2",
     "companyName": "Blizzard Entertainment",
     "id": 19,
@@ -343,7 +344,7 @@
     ]
   },
   {
-    "image": "fortnite.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/3100/ef79f649e45961a7e6342ebf26bc827b8b9603d69b2fdb5c.png",
     "title": "Fortnite",
     "companyName": "Epic Games",
     "id": 20,
@@ -361,7 +362,7 @@
     ]
   },
   {
-    "image": "league_of_legends.jpg",
+    "image": "https://gaming-cdn.com/images/products/9456/616x353/league-of-legends-pc-game-cover.jpg?v=1747212286",
     "title": "League of Legends",
     "companyName": "Riot Games",
     "id": 21,
@@ -379,25 +380,25 @@
     ]
   },
   {
-    "image": "apex_legends.jpg",
-    "title": "Apex Legends",
-    "companyName": "Respawn Entertainment",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1759825106",
+    "title": "Baldur's Gate 3",
+    "companyName": "Larian Studios",
     "id": 22,
-    "description": "A free-to-play battle royale game where legendary characters with powerful abilities team up to fight for fame and fortune on the fringes of the Frontier.",
-    "size": 65,
-    "reviews": "1.1M",
-    "ratingAvg": 4.4,
-    "downloads": "32.7M",
+    "description": "A next-generation RPG set in the world of Dungeons & Dragons where your choices shape a tale of fellowship and betrayal, survival and sacrifice.",
+    "size": 150,
+    "reviews": "318K",
+    "ratingAvg": 4.7,
+    "downloads": "6.8M",
     "ratings": [
-      { "name": "1 star", "count": 220000 },
-      { "name": "2 star", "count": 110000 },
-      { "name": "3 star", "count": 220000 },
-      { "name": "4 star", "count": 330000 },
-      { "name": "5 star", "count": 220000 }
+      { "name": "1 star", "count": 15900 },
+      { "name": "2 star", "count": 15900 },
+      { "name": "3 star", "count": 47700 },
+      { "name": "4 star", "count": 95400 },
+      { "name": "5 star", "count": 143100 }
     ]
   },
   {
-    "image": "destiny_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Destiny_2_%28artwork%29.jpg",
     "title": "Destiny 2",
     "companyName": "Bungie",
     "id": 23,
@@ -415,7 +416,7 @@
     ]
   },
   {
-    "image": "borderlands_3.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Borderlands_3_cover_art.jpg/250px-Borderlands_3_cover_art.jpg",
     "title": "Borderlands 3",
     "companyName": "Gearbox Software",
     "id": 24,
@@ -433,7 +434,7 @@
     ]
   },
   {
-    "image": "halo_infinite.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Halo_Infinite.png/250px-Halo_Infinite.png",
     "title": "Halo Infinite",
     "companyName": "343 Industries",
     "id": 25,
@@ -451,7 +452,7 @@
     ]
   },
   {
-    "image": "sekiro.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
     "title": "Sekiro: Shadows Die Twice",
     "companyName": "FromSoftware",
     "id": 26,
@@ -469,7 +470,7 @@
     ]
   },
   {
-    "image": "divinity_original_sin_2.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435150/capsule_616x353.jpg?t=1725653917",
     "title": "Divinity: Original Sin 2",
     "companyName": "Larian Studios",
     "id": 27,
@@ -487,7 +488,7 @@
     ]
   },
   {
-    "image": "warframe.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Warframe_Cover_Art.png",
     "title": "Warframe",
     "companyName": "Digital Extremes",
     "id": 28,

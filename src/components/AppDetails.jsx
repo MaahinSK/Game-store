@@ -3,6 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { MdReviews } from "react-icons/md";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -52,7 +53,7 @@ const AppDetails = () => {
         <img
           src={appData.image}
           alt={appData.title}
-          className="w-40 h-40 rounded-lg object-cover shadow-md"
+          className="w-60 h-70 rounded-lg object-cover shadow-md"
         />
         <div>
           <h1 className="text-3xl font-semibold text-gray-900">{appData.title}</h1>
