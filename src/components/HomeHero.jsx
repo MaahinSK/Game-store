@@ -95,7 +95,7 @@ export default function Home() {
         )}
 
         <div className="flex justify-center mt-6">
-          <a href="#/apps" className="px-8 py-4 bg-purple-600 text-white rounded">
+          <a href="/apps" className="px-8 py-4 bg-purple-600 text-white rounded">
             Show All
           </a>
         </div>
