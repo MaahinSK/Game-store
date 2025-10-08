@@ -60,7 +60,7 @@ export default function Installation() {
         ) : (
           sorted.map((app) => (
             <div key={app.id} className="bg-white rounded shadow p-3 flex flex-col">
-              <div className="h-40 bg-gray-200 mb-3 overflow-hidden rounded">
+              <div className="h-80 bg-gray-200 mb-3 overflow-hidden rounded">
                 <img
                   src={app.image ? app.image : "/app-placeholder.png"}
                   alt={app.title}
