@@ -22,7 +22,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="max-w-8xl mx-auto px-4 py-12">
+    <div className="max-w-8xl mx-auto px-4 py-12 -mt-9">
       
       <section className="text-center py-10">
         <h1 className="text-5xl md:text-5xl font-extrabold text-slate-800">
@@ -55,13 +55,13 @@ export default function Home() {
           </a>
         </div>
 
-        <div className="mt-15 ">
-          <img src="/hero.png" alt="hero" className="mx-auto w-172" />
+        <div className="mt-12 ">
+          <img src="/hero.png" alt="hero" className="mx-auto w-[730px]" />
         </div>
       </section>
 
       {/* Trusted baner */}
-      <section className="mt-0 rounded-lg overflow-hidden bg-gradient-to-r from-purple-500 to-cyan-300 text-white py-12 text-center">
+      <section className="-mt-10 rounded-lg overflow-hidden bg-gradient-to-r from-purple-500 to-cyan-300 text-white py-12 text-center">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-semibold">Trusted By Millions, Built For You</h2>
           <div className="flex items-center justify-around mt-6 text-white">
