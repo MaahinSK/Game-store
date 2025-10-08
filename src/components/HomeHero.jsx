@@ -3,6 +3,8 @@ import LoadingSpinner from "./LoadingSpinner";
 import TrendingGrid from "./TrendingGrid";
 import { FaGooglePlay } from "react-icons/fa";
 import { FaAppStoreIos } from "react-icons/fa";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+
 
 export default function Home() {
   const [data, setData] = useState([]);
@@ -93,7 +95,7 @@ export default function Home() {
         )}
 
         <div className="flex justify-center mt-6">
-          <a href="/apps" className="px-8 py-4 bg-purple-600 text-white rounded">
+          <a href="#/apps" className="px-8 py-4 bg-purple-600 text-white rounded">
             Show All
           </a>
         </div>
