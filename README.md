@@ -1,5 +1,5 @@
 live link 
-https://game-store-git-main-maahin-sikders-projects.vercel.app/
+https://game-store-zeta-sand.vercel.app/
 
 
 ##Project Description
